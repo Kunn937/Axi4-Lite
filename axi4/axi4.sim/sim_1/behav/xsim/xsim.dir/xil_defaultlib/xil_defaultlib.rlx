@@ -1,0 +1,11 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/ALU.v,1717690494,verilog,,D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/AXI_master.v,,ALU,,,,,,,,
+D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/AXI_master.v,1717698066,verilog,,D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/AXI_slave.v,,AXI_master,,,,,,,,
+D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/AXI_slave.v,1717699339,verilog,,D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/AXI_top.v,,AXI_slave,,,,,,,,
+D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/AXI_tb.v,1717743362,verilog,,,,AXI_tb,,,,,,,,
+D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/AXI_top.v,1717740425,verilog,,D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/register.v,,AXI_top,,,,,,,,
+D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/register.v,1717690267,verilog,,D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/AXI_tb.v,,register,,,,,,,,

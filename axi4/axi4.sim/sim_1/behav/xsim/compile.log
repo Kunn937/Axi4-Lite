@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/AXI_master.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AXI_master
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/AXI_slave.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AXI_slave
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'we1' is not allowed [D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/AXI_slave.v:277]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'we2' is not allowed [D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/AXI_slave.v:278]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'Op1' is not allowed [D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/AXI_slave.v:279]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'Op2' is not allowed [D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/AXI_slave.v:280]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'read_result' is not allowed [D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/AXI_slave.v:281]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/AXI_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AXI_top
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'alu_result' is not allowed [D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/AXI_top.v:51]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/KUNNN/HK2_nam4/SoC/TH/axi4/axi4.srcs/sources_1/new/AXI_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AXI_tb
